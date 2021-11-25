@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
               height: 10.0,
             ),
             const Text(
-              "Eduardo Peralta Q.",
+              "Eduardo Peralta Quicaño",
               style: TextStyle(
                 fontSize: 24.0,
                 fontFamily: 'ComforterBrush',
